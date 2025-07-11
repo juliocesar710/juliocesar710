@@ -2,7 +2,7 @@
 # 👋 Olá, sou Júlio César! 
 
 🎓 **Estudante de Ciências da Computação** | 💻 **Entusiasta da Tecnologia**  
-Atualmente cursando o **7º período** e buscando criar soluções práticas e inovadoras no mundo da programação. 🚀
+Atualmente cursando o **8º período** e buscando criar soluções práticas e inovadoras no mundo da programação. 🚀
 
 ---
 
